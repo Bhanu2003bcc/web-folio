@@ -91,9 +91,9 @@ import { PortfolioDataService } from '../../services/portfolio-data.service';
             <div class="code-body">
               <pre class="code-content"><code><span class="kw">public class</span> <span class="cls">Developer</span> &#123;
 
-  <span class="kw">private final</span> <span class="cls">String</span> name  = <span class="str">"Arjun Sharma"</span>;
-  <span class="kw">private final</span> <span class="cls">String</span> role  = <span class="str">"Senior Java Dev"</span>;
-  <span class="kw">private final int</span>    exp   = <span class="num">6</span>;
+  <span class="kw">private final</span> <span class="cls">String</span> name  = <span class="str">"Bhanu Pratap Singh"</span>;
+  <span class="kw">private final</span> <span class="cls">String</span> role  = <span class="str">"Software Developer"</span>;
+  <span class="kw">private final int</span>    exp   = <span class="num">1</span>;
 
   <span class="kw">private final</span> <span class="cls">List</span>&lt;<span class="cls">String</span>&gt; stack = <span class="cls">List</span>.of(
     <span class="str">"Spring Boot"</span>,
@@ -104,7 +104,7 @@ import { PortfolioDataService } from '../../services/portfolio-data.service';
 
   <span class="kw">public</span> <span class="cls">String</span> <span class="fn">getPassion</span>() &#123;
     <span class="kw">return</span> <span class="str">"Building scalable"</span>
-         + <span class="str">" systems 🚀"</span>;
+         + <span class="str">" systems "</span>;
   &#125;
 &#125;</code></pre>
             </div>
