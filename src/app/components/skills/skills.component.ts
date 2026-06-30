@@ -279,8 +279,8 @@ export class SkillsComponent implements OnInit {
   }
 
   extraTechs = [
-    'Maven', 'Gradle', 'Swagger / OpenAPI', 'Liquibase', 'Flyway',
-    'Prometheus', 'Grafana',
+    'Python', 'FastApi', 'Maven', 'Gradle', 'Swagger / OpenAPI', 'Liquibase', 'Flyway',
+    'Prometheus', 'Grafana', 'TypeScript', 'Angular Js',
     'Git', 'Jira', 'Postman', 'IntelliJ IDEA',
     'OAuth2 / JWT', 'gRPC', 'GraphQL'
   ];

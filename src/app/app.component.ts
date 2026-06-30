@@ -39,8 +39,8 @@ import { ThemeService } from './services/theme.service';
       <div class="container">
         <div class="footer-inner">
           <span class="mono accent-text">&lt;/&gt;</span>
-          <p>Built with <span class="accent-text">Angular</span> + <span class="accent-text">TypeScript</span> · Designed with ❤️</p>
-          <p class="footer-copy">© {{ currentYear }} Arjun Sharma</p>
+          <p>Built with <span class="accent-text">Angular</span> + <span class="accent-text">TypeScript</span></p>
+          <p class="footer-copy">© {{ currentYear }} Bhanu Pratap Singh</p>
         </div>
       </div>
     </footer>
