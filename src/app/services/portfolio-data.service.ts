@@ -57,7 +57,7 @@ export class PortfolioDataService {
   readonly projects: Project[] = [
     {
       id: 1,
-      title: 'Room2Live - Room/Flat Rental Platform',
+      title: 'Rent2Live - Room/Flat Rental Platform',
       description: 'Full stack production ready SaaS Product. Solving the problem of searching Room / flat for the working professional or new visitor in Noida. A Platform that shows authentic & perfect stay for working professional according to their requirement and location.',
       tech: ['Java 21', 'Spring Boot', 'Twilio OTP sms sender', 'Redis', 'PostgreSQL', 'Docker', 'Angular(AI help)'],
       category: 'Full Stack Product',
