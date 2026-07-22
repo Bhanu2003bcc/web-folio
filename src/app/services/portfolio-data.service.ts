@@ -62,7 +62,7 @@ export class PortfolioDataService {
       tech: ['Java 21', 'Spring Boot', 'Twilio OTP sms sender', 'Redis', 'PostgreSQL', 'Docker', 'Angular(AI help)'],
       category: 'Full Stack Product',
       github: 'https://github.com/Bhanu2003bcc/Roomconnect-server',
-      live: 'https://room2live.vercel.app/',
+      live: 'https://rent2live.vercel.app/',
       featured: true,
       metrics: '100+ Active users · 90.97% uptime',
     },
