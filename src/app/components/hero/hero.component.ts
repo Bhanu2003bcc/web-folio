@@ -99,7 +99,7 @@ import { PortfolioDataService } from '../../services/portfolio-data.service';
     <span class="str">"Spring Boot"</span>,
     <span class="str">"Microservices"</span>,
     <span class="str">"Apache Kafka"</span>,
-    <span class="str">"AWS / Kubernetes"</span>
+    <span class="str">"Cloud"</span>
   );
 
   <span class="kw">public</span> <span class="cls">String</span> <span class="fn">getPassion</span>() &#123;

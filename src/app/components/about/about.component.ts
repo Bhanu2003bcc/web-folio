@@ -38,7 +38,7 @@ import { PortfolioDataService } from '../../services/portfolio-data.service';
             </div>
 
             <div class="btn-row" style="margin-top: 32px;">
-              <a href="#" class="btn btn-primary">Download Resume</a>
+              <a href="https://drive.google.com/file/d/1Hpxbu3SY-ifeSN_GwTsMYe8SAe37HwLF/view?usp=sharing" class="btn btn-primary">Download Resume</a>
               <a href="#contact" class="btn btn-ghost">Let's Talk</a>
             </div>
           </div>
